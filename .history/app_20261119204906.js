@@ -1,0 +1,5 @@
+import express from 'express'
+import colaboradorRoutes from '../routes/colaboradorRoutes.js'
+import equipamentoRoutes from '../routes/equipamentoRoutes.js'
+import servicosRoutes from '../routes/servicosRoutes.js'
+import colaboradorRoutes from '../routes/colaboradorRoutes.js'
